@@ -1,3 +1,12 @@
+.btn{
+  background-color: black;
+  color: antiquewhite;
+  width: 5rem;
+  height: 2.5rem;
+  border-radius: 2rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
 .head{
   background-color: lavender;
   color: black;
